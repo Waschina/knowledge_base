@@ -127,8 +127,8 @@ doctoral candidates across nutrition, epidemiology, and data science.
 </div>
 
 <div class="nx-member">
-  <img src="../../assets/members/waschina.jpg" alt="Jun.-Prof. Dr. Silvio Waschina" loading="lazy" onerror="this.onerror=null;this.src='../../assets/members/_placeholder.svg'">
-  <div class="nx-member__name"><a href="https://nutriinformatics.github.io/team.html" rel="noopener">Jun.-Prof. Dr. Silvio Waschina</a></div>
+  <img src="../../assets/members/waschina.jpg" alt="Prof. Dr. Silvio Waschina" loading="lazy" onerror="this.onerror=null;this.src='../../assets/members/_placeholder.svg'">
+  <div class="nx-member__name"><a href="https://nutriinformatics.github.io/team.html" rel="noopener">Prof. Dr. Silvio Waschina</a></div>
   <div class="nx-member__affil">Research Group for Nutriinformatics, Institute of Human Nutrition and Food Science, Kiel University</div>
   <div class="nx-member__interests">Nutriinformatics, microbiome–diet interactions, genome-scale metabolic modelling, systems biology; developer of the open-source tool <a href="https://github.com/jotech/gapseq" rel="noopener">gapseq</a>.</div>
   <div class="nx-member__links"><a href="https://orcid.org/0000-0002-6290-3593" rel="noopener"><img src="../../assets/orcid.svg" alt="">0000-0002-6290-3593</a></div>
